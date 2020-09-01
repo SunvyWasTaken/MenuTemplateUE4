@@ -2,4 +2,7 @@
 
 Developed with Unreal Engine 4
 Version 4.25.3
-Use the Game Instance for manage Every save.
+Template for manage multi save of a game.
+
+Don't forget to use the Game Instance as default.
+The Main map is going to Close automaticaly if there no save.
