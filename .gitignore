@@ -4,6 +4,8 @@ Intermediate
 Saved
 .vscode
 .vs
+.zip
+WindowsNoEditor
 *.VC.db
 *.opensdf
 *.opendb
