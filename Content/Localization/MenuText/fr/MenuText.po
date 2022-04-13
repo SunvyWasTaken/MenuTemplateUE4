@@ -1,0 +1,421 @@
+﻿# MenuText French translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: MenuText\n"
+"POT-Creation-Date: 2022-04-13 13:50\n"
+"PO-Revision-Date: 2022-04-13 13:50\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	Add
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#. Key:	Menu
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Quitter"
+msgstr "Quitter"
+
+#. Key:	Remove
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Retiré"
+msgstr "Retiré"
+
+#. Key:	Save
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Sauvegarder"
+msgstr "Sauvegarder"
+
+#. Key:	AntiAlisgn
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Anti-Aliasing"
+msgstr "Anti-Aliasing"
+
+#. Key:	Apply
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Appliquer"
+msgstr "Appliquer"
+
+#. Key:	Audio
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	Back
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Retour"
+msgstr "Retour"
+
+#. Key:	Cancel
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Annuler"
+msgstr "Annuler"
+
+#. Key:	cinematic
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "cinématique"
+msgstr "cinématique"
+
+#. Key:	Command
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Commande"
+msgstr "Commande"
+
+#. Key:	Continue
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Continuer"
+msgstr "Continuer"
+
+#. Key:	Credit
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Crédit"
+msgstr "Crédit"
+
+#. Key:	Dialogue
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Dialogue"
+msgstr "Dialogue"
+
+#. Key:	Difficulty
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Difficulté"
+msgstr "Difficulté"
+
+#. Key:	Display
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Affichage"
+msgstr "Affichage"
+
+#. Key:	DisplaySub
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Afficher les sous-titres"
+msgstr "Afficher les sous-titres"
+
+#. Key:	Easy
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Facile"
+msgstr "Facile"
+
+#. Key:	Effect
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Effets Sonores"
+msgstr "Effets Sonores"
+
+#. Key:	epic
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "épic"
+msgstr "épic"
+
+#. Key:	Foliage
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Feuillage"
+msgstr "Feuillage"
+
+#. Key:	FrameRate
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Image par seconde"
+msgstr "Image par seconde"
+
+#. Key:	Fullscreen
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Plein écran"
+msgstr "Plein écran"
+
+#. Key:	Gameplay
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#. Key:	General
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Général"
+msgstr "Général"
+
+#. Key:	Graphics
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Graphisme"
+msgstr "Graphisme"
+
+#. Key:	Hard
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Difficile"
+msgstr "Difficile"
+
+#. Key:	high
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "éléver"
+msgstr "éléver"
+
+#. Key:	low
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "bas"
+msgstr "bas"
+
+#. Key:	MainMenu
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Menu général"
+msgstr "Menu général"
+
+#. Key:	medium
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "moyen"
+msgstr "moyen"
+
+#. Key:	Music
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Musique"
+msgstr "Musique"
+
+#. Key:	Newgame
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Nouvelle Partie"
+msgstr "Nouvelle Partie"
+
+#. Key:	No
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Non"
+msgstr "Non"
+
+#. Key:	NoLimit
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Illimité"
+msgstr "Illimité"
+
+#. Key:	Normal
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Normale"
+msgstr "Normale"
+
+#. Key:	Option
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	OutputDevice
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Dispositif de Rendu"
+msgstr "Dispositif de Rendu"
+
+#. Key:	Particule
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Effect de particule"
+msgstr "Effect de particule"
+
+#. Key:	PostProcess
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Post-Traitement"
+msgstr "Post-Traitement"
+
+#. Key:	Principal
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Principale"
+msgstr "Principale"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Quitter"
+msgstr "Quitter"
+
+#. Key:	Resolution
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Résolution"
+msgstr "Résolution"
+
+#. Key:	RestoreDefault
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Paramètre par défaut"
+msgstr "Paramètre par défaut"
+
+#. Key:	SaveList
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Sauvegardes"
+msgstr "Sauvegardes"
+
+#. Key:	ScaleW
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Taille de l'affichage"
+msgstr "Taille de l'affichage"
+
+#. Key:	Shading
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Ombrage"
+msgstr "Ombrage"
+
+#. Key:	ShadQuality
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Qualité des Ombres"
+msgstr "Qualité des Ombres"
+
+#. Key:	SpeechLanguage
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Langue des voix"
+msgstr "Langue des voix"
+
+#. Key:	TextLanguage
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Langue du texte"
+msgstr "Langue du texte"
+
+#. Key:	Texture
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Textures"
+msgstr "Textures"
+
+#. Key:	Vehicle
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Véhicule"
+msgstr "Véhicule"
+
+#. Key:	ViewDistance
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Distance d'affichage"
+msgstr "Distance d'affichage"
+
+#. Key:	Windowed
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Fenétré"
+msgstr "Fenétré"
+
+#. Key:	Windowmode
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Mode D'affichage"
+msgstr "Mode D'affichage"
+
+#. Key:	WinFullscreen
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Plein écran fenétré"
+msgstr "Plein écran fenétré"
+
+#. Key:	Yes
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Oui"
+msgstr "Oui"
+

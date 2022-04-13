@@ -1,0 +1,421 @@
+﻿# MenuText Chinese translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: MenuText\n"
+"POT-Creation-Date: 2022-04-13 13:50\n"
+"PO-Revision-Date: 2022-04-13 13:50\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	Add
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Ajouter"
+msgstr "添加"
+
+#. Key:	Menu
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Menu"
+msgstr "菜单"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Quitter"
+msgstr "辞职"
+
+#. Key:	Remove
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Retiré"
+msgstr "拿走了"
+
+#. Key:	Save
+#. SourceLocation:	/Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+#: /Game/MenuTemplate/SaveGame/Text/ST_Game.ST_Game
+msgctxt "ST_Game"
+msgid "Sauvegarder"
+msgstr "为保障"
+
+#. Key:	AntiAlisgn
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Anti-Aliasing"
+msgstr "抗锯齿"
+
+#. Key:	Apply
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Appliquer"
+msgstr "申请"
+
+#. Key:	Audio
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Audio"
+msgstr "声音的"
+
+#. Key:	Back
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Retour"
+msgstr "返回"
+
+#. Key:	Cancel
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Annuler"
+msgstr "取消"
+
+#. Key:	cinematic
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "cinématique"
+msgstr "电影"
+
+#. Key:	Command
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Commande"
+msgstr "已订购"
+
+#. Key:	Continue
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Continuer"
+msgstr "接着说"
+
+#. Key:	Credit
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Crédit"
+msgstr "信用"
+
+#. Key:	Dialogue
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Dialogue"
+msgstr "对话"
+
+#. Key:	Difficulty
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Difficulté"
+msgstr "困难"
+
+#. Key:	Display
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Affichage"
+msgstr "展示"
+
+#. Key:	DisplaySub
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Afficher les sous-titres"
+msgstr "显示字幕"
+
+#. Key:	Easy
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Facile"
+msgstr "简单"
+
+#. Key:	Effect
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Effets Sonores"
+msgstr "声音特效"
+
+#. Key:	epic
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "épic"
+msgstr "史诗"
+
+#. Key:	Foliage
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Feuillage"
+msgstr "叶子"
+
+#. Key:	FrameRate
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Image par seconde"
+msgstr "每秒帧数"
+
+#. Key:	Fullscreen
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Plein écran"
+msgstr "全屏"
+
+#. Key:	Gameplay
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Gameplay"
+msgstr "游戏玩法"
+
+#. Key:	General
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Général"
+msgstr "一般的"
+
+#. Key:	Graphics
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Graphisme"
+msgstr "图形"
+
+#. Key:	Hard
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Difficile"
+msgstr "难的"
+
+#. Key:	high
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "éléver"
+msgstr "边缘"
+
+#. Key:	low
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "bas"
+msgstr "低的"
+
+#. Key:	MainMenu
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Menu général"
+msgstr "一般菜单"
+
+#. Key:	medium
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "moyen"
+msgstr "道路"
+
+#. Key:	Music
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Musique"
+msgstr "音乐"
+
+#. Key:	Newgame
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Nouvelle Partie"
+msgstr "新零件"
+
+#. Key:	No
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Non"
+msgstr "不"
+
+#. Key:	NoLimit
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Illimité"
+msgstr "无限"
+
+#. Key:	Normal
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Normale"
+msgstr "普通的"
+
+#. Key:	Option
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Options"
+msgstr "选项"
+
+#. Key:	OutputDevice
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Dispositif de Rendu"
+msgstr "渲染设备"
+
+#. Key:	Particule
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Effect de particule"
+msgstr "粒子效果"
+
+#. Key:	PostProcess
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Post-Traitement"
+msgstr "后期处理"
+
+#. Key:	Principal
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Principale"
+msgstr "主要的"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Quitter"
+msgstr "离开"
+
+#. Key:	Resolution
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Résolution"
+msgstr "解析度"
+
+#. Key:	RestoreDefault
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Paramètre par défaut"
+msgstr "默认设置"
+
+#. Key:	SaveList
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Sauvegardes"
+msgstr "保障措施清单"
+
+#. Key:	ScaleW
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Taille de l'affichage"
+msgstr "显示屏尺寸"
+
+#. Key:	Shading
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Ombrage"
+msgstr "阴凉"
+
+#. Key:	ShadQuality
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Qualité des Ombres"
+msgstr "阴影质量"
+
+#. Key:	SpeechLanguage
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Langue des voix"
+msgstr "语音语言"
+
+#. Key:	TextLanguage
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Langue du texte"
+msgstr "文字语言"
+
+#. Key:	Texture
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Textures"
+msgstr "纹理"
+
+#. Key:	Vehicle
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Véhicule"
+msgstr "车辆"
+
+#. Key:	ViewDistance
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Distance d'affichage"
+msgstr "显示距离"
+
+#. Key:	Windowed
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Fenétré"
+msgstr "窗户"
+
+#. Key:	Windowmode
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Mode D'affichage"
+msgstr "显示模式"
+
+#. Key:	WinFullscreen
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Plein écran fenétré"
+msgstr "全窗口屏幕"
+
+#. Key:	Yes
+#. SourceLocation:	/Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+#: /Game/MenuTemplate/MainSave/Text/ST_Option.ST_Option
+msgctxt "ST_Option"
+msgid "Oui"
+msgstr "是的"
+
